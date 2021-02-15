@@ -22,4 +22,4 @@ function person(initialAge){
    };
 }
 
-console.log(person());
+console.log(person(42));
