@@ -17,4 +17,4 @@ function processData(input) {
         console.log(stringValue);
 } 
 
-console.log(processData())
+console.log(processData());
